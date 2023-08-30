@@ -6,7 +6,7 @@ The objective of this project is to design a convolutional neural network for im
 ## Dataset
 Handwritten character recognition is a challenging problem and serves as a good test for learning algorithms. The MNIST dataset has become a standard benchmark for this task. It comprises 60,000 training images and 10,000 testing images, derived from a previous database called NIST. These images are black and white, normalized and centered, with dimensions of 28 pixels on each side.
 
-![]()
+![](https://github.com/elanssariyassine/Handwriting-Recognition-deep-learning-app-mobile-/blob/main/MNIST-0000000001-2e09631a_09liOmx.jpg)
 
 ## Tools
 * **Python**
@@ -18,7 +18,7 @@ Handwritten character recognition is a challenging problem and serves as a good 
 
 ## Model Architecture
 
-![]()
+![](https://github.com/elanssariyassine/Handwriting-Recognition-deep-learning-app-mobile-/blob/main/Architecture.png)
 
 ## Model accuracy
 99.99 %
