@@ -41,6 +41,8 @@ to design a number and see the model prediction
 
 **To design a number, you must first click on the Button at the top of the page "Lock"**
 
+![](https://github.com/elanssariyassine/Handwriting-Recognition-deep-learning-app-mobile-/blob/main/Interface%203.png)
+
 
   
 
